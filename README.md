@@ -1,23 +1,10 @@
-# DriveGo
 
-🌐 **Live Website:** [https://drivego.hub.vercel.app](https://drivego.hub.vercel.app)
-
----
 
 ## Overview
 
 DriveGo is a centralized platform where organizations and organizers publish donation drives, and donors discover, verify, and support causes. DriveGo connects communities with verified donation campaigns by organizing drives across categories, providing community veracity fact-checking, accepted item tracking, campaign updates, and direct links to official campaign posts.
 
 ---
-
-## Tech Stack
-
-![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
